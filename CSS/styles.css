@@ -1,15 +1,16 @@
-body{
+body {
   margin: 0;
   text-align: center;
   font-family: 'Merriweather', serif;
 }
 
-.top-cloud{
+.top-cloud {
   position: absolute;
   right: 300px;
   top: 50px;
 }
-.bottom-cloud{
+
+.bottom-cloud {
   position: absolute;
   left: 300px;
   top: 300px;
@@ -23,24 +24,24 @@ h1 {
   line-height: 2;
 }
 
-hr{
+hr {
   border: dotted #EAF6F6 6px;
   border-bottom: none;
   width: 40%;
   margin: 100px auto;
 }
 
-.intro{
+.intro {
   width: 45%;
   margin: auto;
 }
 
-.contact-message{
+.contact-message {
   width: 40%;
   margin: 40px auto 60px;
 }
 
-.sub-title{
+.sub-title {
   font-weight: normal;
 }
 
@@ -55,72 +56,73 @@ h3 {
   font-family: 'Montserrat', sans-serif;
 }
 
-.sub-skills{
+.sub-skills {
   position: relative;
   font-family: "Montserrat";
   margin: auto 10px;
 }
 
-.skill-row{
+.skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
   text-align: left;
   line-height: 2;
 }
+
 .skillset {
   display: inline;
 }
 
-.prent{
+.prent {
   font-weight: bolder;
   display: inline;
   margin: auto;
 }
 
-.web-design{
+.web-design {
   width: 25%;
   float: left;
   margin-right: 30px;
 }
 
-.language-icon{
+.language-icon {
   width: 25%;
   float: right;
   margin-left: 30;
 }
 
-.camera-icon{
+.camera-icon {
   width: 25%;
   float: left;
 }
 
-.top-container{
+.top-container {
   background-color: #cbf1f5;
   position: relative;
   padding-top: 100px;
 }
 
-.middle-container{
+.middle-container {
   margin: auto;
 }
 
-.bottom-container{
+.bottom-container {
   background-color: #66bfbf;
   padding: 50px 0 20px;
 }
 
-a{
+a {
   color: #11999e;
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
 }
 
-a:hover{
+a:hover {
   color: #eaf6f6;
 }
 
-.copyright{
+.copyright {
   color: #eaf6f6;
   font-size: .75rem;
   padding: 20px 0
